@@ -56,3 +56,16 @@ hr {
     margin: 0 15% 5%;
     border-bottom: 2px solid black;
 }
+
+.nav-container img {
+    max-height: 5em;
+    width: auto;
+}
+
+.nav-container a {
+    margin-left: 2em;
+    text-decoration: none;
+    color: #121212;
+    letter-spacing: 2px;
+    font-size: 1.4em;
+}
