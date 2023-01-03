@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&display=swap');
 
-/* default  */
+/* default */
 
 * {
     box-sizing: border-box;
@@ -47,7 +47,7 @@ hr {
     margin-bottom: 1em;
 }
 
-/* nav  */
+/* nav */
 
 .nav-container {
     display: flex;
@@ -68,4 +68,40 @@ hr {
     color: #121212;
     letter-spacing: 2px;
     font-size: 1.4em;
+}
+
+/* hero section */
+
+.hero-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5% 15%;
+    min-height: 50vh;
+    background-image: url("../images//model-jane-ellen.jpg");  
+    background-attachment: scroll;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1em;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    color: #e6e6e6;
+    height: 100px;
+    width: 100%;
+    padding-left: 3em;
+}
+
+/* about section */
+
+.about-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 5% 15%;
 }
