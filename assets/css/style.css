@@ -46,3 +46,13 @@ hr {
     border-color: #121212;
     margin-bottom: 1em;
 }
+
+/* nav  */
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 15% 5%;
+    border-bottom: 2px solid black;
+}
