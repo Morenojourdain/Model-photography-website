@@ -134,3 +134,10 @@ hr {
 .photos-margin {
     margin-top: 1em;
 }
+
+/* contact section */
+
+.contact-container {
+    text-align: center;
+    margin: 5% 15%;
+}
