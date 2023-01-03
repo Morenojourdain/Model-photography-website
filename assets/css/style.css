@@ -1,3 +1,48 @@
 /* imports */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&display=swap');
+
+/* default  */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Iter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #121212;
+    background-image: linear-gradient(to right top, #d28a35, #d89c39, #dcaf40, #dfc249, #e0d555, #e4d454, #e8d254, #ecd154, #f2bb4c, #f4a54a, #f28f4d, #ed7a53);
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    border: 1px solid blue;
+}
+
+h1, h2 {
+    font-family: 'Iter', sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 2.4em;
+}
+
+h2 {
+    font-size: 2.2em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+hr {
+    border-color: #121212;
+    margin-bottom: 1em;
+}
