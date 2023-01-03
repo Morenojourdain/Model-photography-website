@@ -111,3 +111,26 @@ hr {
     height: auto;
     border-radius: 10px;
 }
+
+/* portfolio section */
+
+.portfolio-container {
+    text-align: center;
+    margin: 5% 15%;
+}
+
+.photos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.photos img {
+    height: 30em;
+    max-width: auto;
+    border-radius: 1em;
+}
+
+.photos-margin {
+    margin-top: 1em;
+}
