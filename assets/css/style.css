@@ -150,15 +150,12 @@ hr {
     max-width: 25%;
 }
 
-.contact-form label {
-    border-radius: 10px;
-}
 .contact-form input {
     min-width: 25em;
     margin-bottom: 1em;
     background-color: #e6e6e6;
     border: 1px solid #121212;
-    
+    border-radius: 0.25em;  
 }
 
 .contact-form textarea {
@@ -167,6 +164,7 @@ hr {
     background-color: #e6e6e6;
     border: 1px solid #121212;
     margin-bottom: 1em;
+    border-radius: 0.5em;
 }
 
 .form-background {
@@ -184,4 +182,6 @@ button {
     border-radius: 10px;
     width: 5em;
     height: 2.5em;
+    font-family: 'Iter', sans-serif;
+    font-weight: 400;
 }
