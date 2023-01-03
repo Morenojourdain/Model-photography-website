@@ -70,6 +70,10 @@ hr {
     font-size: 1.4em;
 }
 
+a:hover {
+    color: #e6e6e6;
+  }  
+
 /* hero section */
 
 .hero-container {
@@ -84,6 +88,10 @@ hr {
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 1em;
+}
+
+.hero-container p, h1 {
+    max-width: 50%;
 }
 
 .hero-text {
@@ -202,4 +210,13 @@ button {
 .center-icons i {
     font-size: 2.2em;
     margin: 0 1em;
+}
+
+.center-icons a {
+    text-decoration: none;
+    color: #121212;
+}
+
+.center-icons a:hover {
+    color: #e6e6e6;
 }
