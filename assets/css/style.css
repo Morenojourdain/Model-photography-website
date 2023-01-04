@@ -312,8 +312,13 @@ button {
         margin: 5% 5%;
     }
     
+    .photos {
+        justify-content: space-around;
+    }
+
     .photos img {
-        height: 10em;
+        height: 12em;
+        margin: 0 0 1em;
     }
 
     /* contact section  */
@@ -337,3 +342,11 @@ button {
     .contact-form textarea {
         min-width: 100%;
     }
+
+    /* footer */
+
+    .footer-container {
+        margin: 0 5%;
+    }
+
+}
