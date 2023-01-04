@@ -233,6 +233,19 @@ button {
 
 @media screen and (min-width: 320px) and (max-width: 480px) {
 
+    h1 {
+        font-size: 2em;
+    }
+    
+    h2 {
+        font-size: 1.8em;
+        margin-bottom: 0.5em;
+    }
+    
+    p {
+        font-size: 0.8em;
+    }
+    
     .nav-container a {
         margin: 0 0 0.5em;
         letter-spacing: 0;
@@ -254,25 +267,14 @@ button {
         max-height: 3.5em;
     }
 
-    h1 {
-        font-size: 2em;
-    }
-    
-    h2 {
-        font-size: 1.8em;
-        margin-bottom: 0.5em;
-    }
-    
-    p {
-        font-size: 0.8em;
-    }
-
     .hero-container {
         min-height: 30vh;
 
     }
 
     .hero-text {
-        padding-left: 1em;
+        padding: 1em;
+        height: auto;
+        background-color: rgba(0 0 0 / 50%);
     }
 }
