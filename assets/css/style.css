@@ -236,6 +236,7 @@ button {
     .nav-container a {
         margin-right: 2em;
         margin-left: 0;
+        margin: 0.5em 2em 0 0.5em;
         text-decoration: none;
         color: #121212;
         letter-spacing: 2px;
@@ -244,13 +245,30 @@ button {
 
     .nav-container {
         display: flex;
-        align-items: center;
         margin: 0 15% 5%;
         border-bottom: 2px solid #121212;
         flex-direction: row;
         flex-wrap: wrap;
-        justify-content: center;
-        text-align: center;
+        justify-content: flex-start;
+    }
+
+    .links-mobile {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+    
+    h2 {
+        font-size: 1.8em;
+        margin-bottom: 0.5em;
+    }
+    
+    p {
+        font-size: 0.8em;
     }
 
 }
