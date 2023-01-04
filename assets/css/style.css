@@ -233,6 +233,8 @@ button {
 
 @media screen and (min-width: 320px) and (max-width: 480px) {
 
+    /* defaults */
+
     h1 {
         font-size: 2em;
     }
@@ -245,6 +247,8 @@ button {
     p {
         font-size: 0.8em;
     }
+
+    /* nav */
     
     .nav-container a {
         margin: 0 0 0.5em;
@@ -270,6 +274,8 @@ button {
         max-height: 3.5em;
     }
 
+    /* hero section */
+
     .hero-container {
         min-height: 30vh;
         margin: 5% 5%;
@@ -281,6 +287,8 @@ button {
         height: auto;
         background-color: rgba(0 0 0 / 50%);
     }
+
+    /* about section */
 
     .about-container {
         flex-direction: column;
@@ -298,6 +306,8 @@ button {
         margin: 1em 0 1em;
     }
 
+    /* portfolio section */
+
     .portfolio-container {
         margin: 5% 5%;
     }
@@ -305,4 +315,25 @@ button {
     .photos img {
         height: 10em;
     }
-}
+
+    /* contact section  */
+
+    .contact-container {
+        margin: 5% 5%;
+    }
+
+    .contact-form-mobile {
+        min-width: 100%;
+    }
+
+    .contact-form {
+        min-width: 100%;
+    }
+
+    .contact-form input {
+        min-width: 100%;
+    }
+    
+    .contact-form textarea {
+        min-width: 100%;
+    }
