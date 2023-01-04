@@ -235,6 +235,7 @@ button {
 
     .nav-container a {
         margin-right: 2em;
+        margin-left: 0;
         text-decoration: none;
         color: #121212;
         letter-spacing: 2px;
@@ -242,13 +243,14 @@ button {
     }
 
     .nav-container {
-    display: flex;
-    align-items: center;
-    margin: 0 15% 5%;
-    border-bottom: 2px solid #121212;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-}
+        display: flex;
+        align-items: center;
+        margin: 0 15% 5%;
+        border-bottom: 2px solid #121212;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
 
 }
