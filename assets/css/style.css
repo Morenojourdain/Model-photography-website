@@ -202,6 +202,11 @@ button {
     font-weight: 400;
 }
 
+button:hover {
+    color: #121212;
+    background-color: #e0d555;
+}
+
 /* footer */
 
 .footer-container {
@@ -411,21 +416,6 @@ button {
         margin: 5% 5%;
     }
 
-    /* .contact-form-tablet {
-        min-width: 80%;
-    }
-
-    .contact-form {
-        min-width: 80%;
-    }
-
-    .contact-form input {
-        min-width: 80%;
-    }
-    
-    .contact-form textarea {
-        min-width: 80%;
-    } */
 }
 
 
