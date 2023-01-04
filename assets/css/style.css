@@ -389,6 +389,43 @@ button {
         margin-bottom: 1em;
         margin: 1em 0 1em;
     }
+
+    /* portfolio section */
+
+    .portfolio-container {
+        margin: 5% 5%;
+    }
+    
+    .photos {
+        justify-content: space-around;
+    }
+
+    .photos img {
+        height: 25em;
+        margin: 0 0 2em;
+    }
+
+    /* contact section */
+
+    .contact-container {
+        margin: 5% 5%;
+    }
+
+    /* .contact-form-tablet {
+        min-width: 80%;
+    }
+
+    .contact-form {
+        min-width: 80%;
+    }
+
+    .contact-form input {
+        min-width: 80%;
+    }
+    
+    .contact-form textarea {
+        min-width: 80%;
+    } */
 }
 
 
