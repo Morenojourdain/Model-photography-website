@@ -26,8 +26,18 @@ This is the new main marketing website for Capra Studios. It's responsive and th
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/Morenojourdain/model-photography-website/blob/657b3c2bdfab3276d2a9bf98adbdaa1e825eadf4/.gitpod.yml)
+<img src="https://user-images.githubusercontent.com/116304779/210988754-29a240e3-e9f6-4c76-8296-d531d2513944.jpeg">
 
-    -   Mobile Wireframe - [View](https://github.com/)
+## Features
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+- __Responsive design__
+
+  - This allows the the user to enjoy the design on a wide variety of different screen sizes. Making the content flow naturally down using flex design.
+
+- __Gallery section__
+
+  - This section is designed to feature the latest portfolio work of Capra Studios.
+
+- __Contact form__
+
+  - This section allows he user to submit a personal message to require additional information from Capra Studios. Wich also increases lead generation through the website.
