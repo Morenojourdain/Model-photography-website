@@ -67,3 +67,12 @@ This is the new main marketing website for Capra Studios. It's responsive and th
     - Colorspace was used to create the lineargradient vor the background of the website.
 1. [Pexels:](https://www.pexels.com/)
     - Pexels was used to place stock photos and images.
+1. [Online video cutter:](https://online-video-cutter.com/)
+    - Online video cutter was used to decrease the lenght of the video.
+ 
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
