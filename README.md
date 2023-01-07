@@ -41,3 +41,29 @@ This is the new main marketing website for Capra Studios. It's responsive and th
 - __Contact form__
 
   - This section allows he user to submit a personal message to require additional information from Capra Studios. Wich also increases lead generation through the website.
+
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Tinypng:](https://tinypng.com/)
+    - Tinypng was used to compress all the images wich decreases the file size of an image.
+1. [Image Resizer:](https://imageresizer.com/)
+    - Image Resizer was used to rezise and cut the images to the desired format.
+1. [Colorspace:](https://mycolor.space/)
+    - Colorspace was used to create the lineargradient vor the background of the website.
+1. [Pexels:](https://www.pexels.com/)
+    - Pexels was used to place stock photos and images.
